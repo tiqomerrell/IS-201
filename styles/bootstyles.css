@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+    color: lightsalmon;
+}
+
+#top{
+    color:darkslategrey;
+    border:5px solid black;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+footer{
+    color: darkslategrey;
+}
+.caption {
+    text-size-adjust: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    color: darkslategrey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
